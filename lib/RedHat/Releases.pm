@@ -69,7 +69,7 @@ die "BUG: Can't generate func: $res->[0] - $res->[1]" unless $res->[0] == 200;
 =head1 DESCRIPTION
 
 This module contains list of RedHat Enterprise Linux releases. Data source is
-currently at: L<https://github.com/perlancar/gudangdata-distrowatch>
+currently at: L<https://github.com/sharyanto/gudangdata-distrowatch>
 (table/redhat_release) which in turn is retrieved from
 L<http://distrowatch.com>.
 
